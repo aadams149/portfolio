@@ -12,6 +12,8 @@ The GPPRlogo.png file is a logo for the Georgetown Public Policy Review which is
 
 The "Community Best Practices Documentation" folder contains the licensing, code of conduct, and contributor guidelines for this repository. Since this repository functions as a portfolio, and I (Alex Adams) am the only contributor, those documents are basically templates, and can be safely ignored when examining my work here. I include them only because GitHub includes them in a best practices list, and I believe it is important to be a conscientious digital citizen. 
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
 Below is an up-to-date list of all my finished visualizations, in reverse chronological order:
 
 "Comparing Redistricting Mechanisms Across States" in [ARTICLE TITLE HERE] by Nisha Singh. Published in the Georgetown Public Policy Review on [DATE HERE]. Article link.
