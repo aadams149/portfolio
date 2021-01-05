@@ -14,9 +14,9 @@ The "Community Best Practices Documentation" folder contains the licensing, code
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Below is an up-to-date list of all my finished visualizations, in reverse chronological order:
+Below is an up-to-date list of all my published visualizations, in reverse chronological order:
 
-"Comparing Redistricting Mechanisms Across States" in [ARTICLE TITLE HERE] by Nisha Singh. Published in the Georgetown Public Policy Review on [DATE HERE]. Article link.
+"Comparing Redistricting Mechanisms Across States" in *One Vote: Who Will Decide What’s ‘Fair’ in State Redistricting?* by Nisha Singh. Published in the Georgetown Public Policy Review on January 4, 2021. Article link: https://gppreview.com/2021/01/04/one-vote-will-decide-whats-fair-state-redistricting/
 
 "Almost Every State Supreme Court Publicizes Its Bar Membership" in *Open The Bar: Toward Greater Supreme Court Transparency* by Harry William Baumgarten. Published in the Georgetown Public Policy Review on November 28, 2020. Article link: https://gppreview.com/2020/11/28/open-bar-toward-greater-supreme-court-transparency/
 
