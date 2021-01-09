@@ -1,3 +1,5 @@
+# Repository Overview
+
 This is my GitHub repository for anything related to any data visualizations I make.
 Right now, it will likely only contain files related to work I do as a data visualization editor for the Georgetown Public Policy Review.
 However, I plan to expand and maintain it as I advance through my professional career.
@@ -17,7 +19,7 @@ The "Community Best Practices Documentation" folder contains the licensing, code
 In the lists below, items followed by a tilde (~) can be found in the Finished Visualizations folder, while items followed by a dollar sign ($) can be found in the Personal Projects folder.  
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Below is an up-to-date list of all my published visualizations, in reverse chronological order:
+## Published Visualizations
 
 "Comparing Redistricting Mechanisms Across States" in *One Vote: Who Will Decide What’s ‘Fair’ in State Redistricting?* by Nisha Singh. Published in the Georgetown Public Policy Review on January 4, 2021. Article link: https://gppreview.com/2021/01/04/one-vote-will-decide-whats-fair-state-redistricting/ (~)
 
@@ -29,6 +31,6 @@ Below is an up-to-date list of all my published visualizations, in reverse chron
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-I have also published the following web apps, in reverse chronological order:
+## Other Published Work
 
 "COVID County, USA", published January 8, 2021. App link: https://aadams149.shinyapps.io/COVID_County_USA/ ($)
