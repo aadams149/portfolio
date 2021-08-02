@@ -5,8 +5,9 @@ account: aadams149
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3454880
-bundleId: 4073672
+bundleId: 4881260
 url: https://aadams149.shinyapps.io/COVID_County_USA/
-when: 1610136851.36292
+when: 1627932434.99313
+lastSyncTime: 1627932434.99313
 asMultiple: FALSE
 asStatic: FALSE
