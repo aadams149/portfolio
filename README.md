@@ -33,4 +33,6 @@ ________________________________________________________________________________
 
 ## Other Published Work
 
-"COVID County, USA", published January 8, 2021. App link: https://aadams149.shinyapps.io/COVID_County_USA/ ($)
+"COVID County, USA", published January 8, 2021, updated August 3, 2021. App link: https://aadams149.shinyapps.io/COVID_County_USA/ ($)
+
+"How Often Do Members of Congress Vote Together?", published August 5, 2021, updated TBD. App link: https://aadams149.shinyapps.io/VoteTogether/ ($)
