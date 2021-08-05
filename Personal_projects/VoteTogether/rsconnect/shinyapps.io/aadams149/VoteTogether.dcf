@@ -1,0 +1,14 @@
+name: VoteTogether
+title: VoteTogether
+username:
+account: aadams149
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4461242
+bundleId: 4893040
+url: https://aadams149.shinyapps.io/VoteTogether/
+when: 1628202937.75668
+lastSyncTime: 1628202937.75668
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Hall_members.csv|Hall_votes.csv|Sall_members.csv|Sall_votes.csv
