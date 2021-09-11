@@ -1,7 +1,8 @@
 library(readr)
 library(shiny)
 library(tidyverse)
-
+library(Cairo)
+options(bitmapType = 'Cairo')
 imgs = "https://raw.githubusercontent.com/voteview/member_photos/main/members.csv"
 imgs = read.csv(url(imgs))
 df_Hv = readRDS('Hall_votes.rds')
@@ -46,15 +47,32 @@ ui <- fluidPage(
            uiOutput('selector2')
         ),
 
-        # Show a plot of the generated distribution
         mainPanel(
-           textOutput('helpertext')
+           textOutput('helpertext'),
+           uiOutput('image1'),
+           uiOutput('image2')
         )
     )
 )
 
-# Define server logic required to draw a histogram
+# Define server logic
 server <- function(input, output) {
+    #df_m <- reactive({
+    #  url1 = paste0('https://voteview.com/static/data/out/members/',substring(input$chamber, 1,1),
+    #                input$congress,'_members.csv', sep = '')
+    #  df = read.csv(url(url1))
+    #  df = df %>% select(bioname, icpsr)
+    #  return(df)
+    #  })  
+    
+    #df_v <- reactive({
+    #  url2 = paste0('https://voteview.com/static/data/out/votes/',substring(input$chamber, 1,1),
+    #                input$congress,'_votes.csv', sep = '')
+    #  df = read.csv(url(url2))
+    #  df = df %>% select(icpsr,cast_code,rollnumber) %>% pivot_wider(names_from = 'rollnumber',values_from = 'cast_code')
+    #  return(df)
+    #})
+  
     namedf <- reactive({
         if(input$chamber == 'House of Representatives'){
             df = df_Hm %>% filter(congress == input$congress & chamber == 'House') %>% select(bioname,icpsr)}
@@ -93,8 +111,26 @@ server <- function(input, output) {
         simscore = (sum(votes$simscore)/length(votes$simscore))*100
         (paste0(input$member1,' and ',input$member2, ' voted together ', simscore, '% of the time, or ',
               sum(votes$simscore), ' out of ', length(votes$simscore), ' votes.',sep = ''))
-        
-        
+    
+    
+    })
+    imgslug1 <- reactive({
+        imgs[imgs$name == input$member1, "image"]
+    })
+    imgslug2 <- reactive({
+        imgs[imgs$name == input$member2, "image"]
+    })
+    url3 <- reactive({
+        paste0('https://raw.githubusercontent.com/voteview/member_photos/tree/main/',imgslug1())
+    })
+    url4 <- reactive({
+        paste0('https://raw.githubusercontent.com/voteview/member_photos/tree/main/',imgslug2())
+    })
+    output$image1 <- renderUI({
+      tags$img(src = url3())
+    })
+    output$image2 <- renderUI({
+      tags$img(src = url4())
     })
 }
 # Run the application 

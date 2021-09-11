@@ -5,10 +5,10 @@ account: aadams149
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4461242
-bundleId: 4893040
+bundleId: 4896815
 url: https://aadams149.shinyapps.io/VoteTogether/
-when: 1628202937.75668
-lastSyncTime: 1628202937.75668
+when: 1628283240.94361
+lastSyncTime: 1628283240.94361
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: Hall_members.csv|Hall_votes.csv|Sall_members.csv|Sall_votes.csv
+ignoredFiles: archived_data.zip

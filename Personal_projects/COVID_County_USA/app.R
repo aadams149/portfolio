@@ -14,16 +14,16 @@ options(bitmapType='cairo')
 urlfile = "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv"
 c19data = read.csv(url(urlfile))
 
-countydata1 = read.csv('countydata1.csv', stringsAsFactors = FALSE, sep = ',', header = TRUE)
-countydata1$FIPS = sprintf("%05d", as.numeric(countydata1$FIPS))
+countydata1 = read.csv('countydata2020.csv', stringsAsFactors = FALSE, sep = ',', header = TRUE)
+#countydata1$FIPS = sprintf("%05d", as.numeric(countydata1$FIPS))
 #justfips = countydata1[,c('FIPS', 'TOT_POP')]
 countydata1 = countydata1 %>% rename('fips' = FIPS, 'State' = region, 'County' = subregion, 
                                      'Total_Population' = TOT_POP)
-remove_if = c('city','Parish')
-countydata1_a = subset(countydata1, !grepl(paste(remove_if, collapse="|"), County))
-countydata1_a$County = paste(countydata1_a$County, 'County')
-countydata1_b = subset(countydata1, grepl(paste(remove_if, collapse="|"), County))
-countydata1 = rbind.data.frame(countydata1_a,countydata1_b)
+#remove_if = c('city','Parish')
+#countydata1_a = subset(countydata1, !grepl(paste(remove_if, collapse="|"), County))
+#countydata1_a$County = paste(countydata1_a$County, 'County')
+#countydata1_b = subset(countydata1, grepl(paste(remove_if, collapse="|"), County))
+#countydata1 = rbind.data.frame(countydata1_a,countydata1_b)
                                
 newlist = c()
 for(ii in (countydata1$fips)){
@@ -59,7 +59,7 @@ ui <- fluidPage(
   helpText('Copyright 2020, Alexander J. Adams', align = 'center'),
   tags$h6('Data:', align = 'left'),
   tags$a(href = 'https://github.com/nytimes/covid-19-data', 'The New York Times, '),
-  tags$a(href = 'https://shiny.rstudio.com/tutorial/written-tutorial/lesson5/census-app/data/counties.rds', 'USCensus2010 Package'),
+  tags$a(href = 'https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-counties-total.html', '2020 U.S. Census Data'),
   
   fluidRow(
     column(4, offset = 4,

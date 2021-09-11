@@ -1,13 +1,14 @@
 name: COVID_County_USA
-title:
+title: COVID_County_USA
 username:
 account: aadams149
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3454880
-bundleId: 4881260
+bundleId: 5023624
 url: https://aadams149.shinyapps.io/COVID_County_USA/
-when: 1627932434.99313
-lastSyncTime: 1627932434.99313
+when: 1631397190.48981
+lastSyncTime: 1631397190.48981
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: countydata1.csv
