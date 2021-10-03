@@ -36,3 +36,5 @@ ________________________________________________________________________________
 "COVID County, USA", published January 8, 2021, updated August 3, 2021. App link: https://aadams149.shinyapps.io/COVID_County_USA/ ($)
 
 "How Often Do Members of Congress Vote Together?", published August 5, 2021, updated TBD. App link: https://aadams149.shinyapps.io/VoteTogether/ ($)
+
+hhill.R, a script which implements the Huntington-Hill method of apportionment as a function. This is the method of apportionment used to allocate seats in the U.S. House of Representatives.
