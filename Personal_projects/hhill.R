@@ -1,4 +1,4 @@
-hhill <- function(names, populations, seats){
+hhill <- function(names, populations, seats, min = 1, exclude = c()){
   #Required input:
   #names: a vector or dataframe column of states or other entities to be allocated seats
   #populations: the populations of each item in `names`
@@ -10,18 +10,21 @@ hhill <- function(names, populations, seats){
         error = function(e){
           message('An error occurred:\n', e)
         })}
-      if(length(names) == length(populations)){
+      if(length(names) != length(populations)){
+        errorCondition('Error: argument `names` must be the same length as argument `populations`')
+      }
+      else{
       #Bind the names and populations into a data frame
       df = cbind.data.frame(names, populations)
       #Drop DC since it's not a state
-      df = df %>% filter(names != 'District of Columbia')
+      df = df %>% filter(!(names %in% exclude))
       #Instantiate the seat count column
-      df$seatcount = 1
+      df$seatcount = min
       #Calculate each state's initial seat score
       df$seatscore = df$populations/(sqrt(df$seatcount*(df$seatcount+1)))
       df$seat_number = 1:nrow(df)
       #Figure out how many seats are left to be allocated
-      seats = seats - nrow(df)
+      seats = seats - (nrow(df)*min)
       #Copy the dataframe for processing purposes
       df1 = df
       #New dataframe
@@ -57,7 +60,4 @@ hhill <- function(names, populations, seats){
       #final_seats = data frame of length nrow(names), showing how many seats each state gets
       item_list = list(seat_order = newdf, one_seat = list(one_seat), final_seats = newdf1)
       item_list}
-      else{
-          print('Error: Number of names does not match number of populations')
-          }
   }
