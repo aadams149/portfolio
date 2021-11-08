@@ -1,0 +1,151 @@
+﻿Code,Name,StationTogether1,StationTogether2,LineCode1,LineCode2,LineCode3,LineCode4,LineCode5,Lat,Lon,Address.Street,Address.City,Address.State,Address.Zip,Line,Order
+J03,Franconia-Springfield,,,BL,---,---,---,---,38.76611993,-77.1680319,5690 Eisenhower Avenue,Alexandria,VA,22310,Blue,1
+J02,Van Dorn Street,,,BL,---,---,---,---,38.79931517,-77.12925102,6880 Frontier Drive,Springfield,VA,22150,Blue,2
+C13,King St-Old Town,,,BL,YL,---,---,---,38.806474,-77.061115,1900 King Street,Alexandria,VA,22301,Blue,3
+C12,Braddock Road,,,BL,YL,---,---,---,38.814009,-77.053763,700 N. West St.,Alexandria,VA,22301,Blue,4
+C10,Ronald Reagan Washington National Airport,,,BL,YL,---,---,---,38.852985,-77.043805,2400 S. Smith Blvd.,Arlington,VA,22202,Blue,5
+C09,Crystal City,,,BL,YL,---,---,---,38.85779,-77.050589,1750 South Clark St.,Arlington,VA,22202,Blue,6
+C08,Pentagon City,,,BL,YL,---,---,---,38.863045,-77.059507,1250 South Hayes St.,Arlington,VA,22202,Blue,7
+C07,Pentagon,,,BL,YL,---,---,---,38.869349,-77.054013,2 South Rotary Road,Arlington,VA,22202,Blue,8
+C06,Arlington Cemetery,,,BL,---,---,---,---,38.884574,-77.063108,1000 North Memorial Drive,Arlington,VA,22211,Blue,9
+C05,Rosslyn,,,BL,OR,SV,---,---,38.896595,-77.07146,1850 N. Moore Street,Arlington,VA,22209,Blue,10
+C04,Foggy Bottom-GWU,,,BL,OR,SV,---,---,38.900599,-77.050273,2301 I St. NW,Washington,DC,20037,Blue,11
+C03,Farragut West,,,BL,OR,SV,---,---,38.901311,-77.03981,900 18th St. NW,Washington,DC,20006,Blue,12
+C02,McPherson Square,,,BL,OR,SV,---,---,38.901316,-77.033652,1400 I St. NW,Washington,DC,20005,Blue,13
+C01,Metro Center,A01,,BL,OR,RD,SV,---,38.898303,-77.028099,607 13th St. NW,Washington,DC,20005,Blue,14
+D01,Federal Triangle,,,BL,OR,SV,---,---,38.893757,-77.028218,302 12th St. NW,Washington,DC,20004,Blue,15
+D02,Smithsonian,,,BL,OR,SV,---,---,38.888022,-77.028232,1200 Independence Avenue SW,Washington,DC,20004,Blue,16
+D03,L'Enfant Plaza,F03,,BL,GR,OR,SV,YL,38.884775,-77.021964,600 Maryland Avenue SW,Washington,DC,20024,Blue,17
+D04,Federal Center SW,,,BL,OR,SV,---,---,38.884958,-77.01586,401 3rd Street SW,Washington,DC,20024,Blue,18
+D05,Capitol South,,,BL,OR,SV,---,---,38.884968,-77.005137,355 First Street SE,Washington,DC,20003,Blue,19
+D06,Eastern Market,,,BL,OR,SV,---,---,38.884124,-76.995334,701 Pennsylvania Avenue SE,Washington,DC,20003,Blue,20
+D07,Potomac Ave,,,BL,OR,SV,---,---,38.880841,-76.985721,700 14th Street SE,Washington,DC,20003,Blue,21
+D08,Stadium-Armory,,,BL,OR,SV,---,---,38.88594,-76.977485,192 19th St. SE,Washington,DC,20003,Blue,22
+G01,Benning Road,,,BL,SV,---,---,---,38.890488,-76.938291,4500 Benning Road,Washington,DC,20019,Blue,23
+G02,Capitol Heights,,,BL,SV,---,---,---,38.889757,-76.913382,133 Central Avenue,Capitol Heights,MD,20743,Blue,24
+G03,Addison Road-Seat Pleasant,,,BL,SV,---,---,---,38.886713,-76.893592,100 Addison Road S.,Capitol Heights,MD,20743,Blue,25
+G04,Morgan Boulevard,,,BL,SV,---,---,---,38.8913,-76.8682,300 Garrett Morgan Blvd.,Landover,MD,20785,Blue,26
+G05,Largo Town Center,,,BL,SV,---,---,---,38.9008,-76.8449,Largo Town Center 9000 Lottsford Road,Largo,MD,20774,Blue,27
+E10,Greenbelt,,,GR,---,---,---,---,39.011036,-76.911362,5717 Greenbelt Metro Drive,Greenbelt,MD,20740,Green,1
+E09,College Park-U of Md,,,GR,---,---,---,---,38.978523,-76.928432,4931 Calvert Road,College Park,MD,20740,Green,2
+E08,Prince George's Plaza,,,GR,---,---,---,---,38.965276,-76.956182,3575 East West Highway,Hyattsville,MD,20782,Green,3
+E07,West Hyattsville,,,GR,---,---,---,---,38.954931,-76.969881,2700 Hamilton St.,Hyattsville,MD,20782,Green,4
+E06,Fort Totten,B06,,GR,RD,YL,---,---,38.951777,-77.002174,550 Galloway Street NE,Washington,DC,20011,Green,5
+E05,Georgia Ave-Petworth,,,GR,YL,---,---,---,38.936077,-77.024728,3700 Georgia Avenue NW,Washington,DC,20010,Green,6
+E04,Columbia Heights,,,GR,YL,---,---,---,38.928672,-77.032775,3030 14th St. NW,Washington,DC,20009,Green,7
+E03,U Street/African-Amer Civil War Memorial/Cardozo,,,GR,YL,---,---,---,38.916489,-77.028938,1240 U Street NW,Washington,DC,20009,Green,8
+E02,Shaw-Howard U,,,GR,YL,---,---,---,38.912919,-77.022194,1701 8th St. NW,Washington,DC,20001,Green,9
+E01,Mt Vernon Sq 7th St-Convention Center,,,GR,YL,---,---,---,38.905604,-77.022256,700 M St. NW,Washington,DC,20001,Green,10
+F01,Gallery Pl-Chinatown,B01,,GR,RD,YL,---,---,38.89834,-77.021851,630 H St. NW,Washington,DC,20001,Green,11
+F02,Archives-Navy Memorial-Penn Quarter,,,GR,YL,---,---,---,38.893893,-77.021902,701 Pennsylvania Avenue NW,Washington,DC,20004,Green,12
+F03,L'Enfant Plaza,D03,,GR,BL,OR,SV,YL,38.884775,-77.021964,600 Maryland Avenue SW,Washington,DC,20024,Green,13
+F04,Waterfront,,,GR,---,---,---,---,38.876221,-77.017491,399 M Street SW,Washington,DC,20024,Green,14
+F05,Navy Yard-Ballpark,,,GR,---,---,---,---,38.876588,-77.005086,200 M Street SE,Washington,DC,20003,Green,15
+F06,Anacostia,,,GR,---,---,---,---,38.862072,-76.995648,1101 Howard Road SE,Washington,DC,20020,Green,16
+F07,Congress Heights,,,GR,---,---,---,---,38.845334,-76.98817,1290 Alabama Avenue SE,Washington,DC,20020,Green,17
+F08,Southern Avenue,,,GR,---,---,---,---,38.840974,-76.97536,1411 Southern Avenue,Temple Hills,MD,20748,Green,18
+F09,Naylor Road,,,GR,---,---,---,---,38.851187,-76.956565,3101 Branch Avenue,Temple Hills,MD,20748,Green,19
+F10,Suitland,,,GR,---,---,---,---,38.843891,-76.932022,4500 Silver Hill Road,Suitland,MD,20746,Green,20
+F11,Branch Ave,,,GR,---,---,---,---,38.826995,-76.912134,4704 Old Soper Road,Suitland,MD,20746,Green,21
+K08,Vienna/Fairfax-GMU,,,OR,---,---,---,---,38.877693,-77.271562,9550 Saintsbury Drive,Fairfax,VA,22031,Orange,1
+K07,Dunn Loring-Merrifield,,,OR,---,---,---,---,38.883015,-77.228939,2700 Gallows Road,Vienna,VA,22180,Orange,2
+K06,West Falls Church-VT/UVA,,,OR,---,---,---,---,38.90067,-77.189394,7040 Haycock Road,Falls Church,VA,22043,Orange,3
+K05,East Falls Church,,,OR,SV,---,---,---,38.885841,-77.157177,2001 N. Sycamore St.,Arlington,VA,22205,Orange,4
+K04,Ballston-MU,,,OR,SV,---,---,---,38.882071,-77.111845,4230 Fairfax Drive,Arlington,VA,22201,Orange,5
+K03,Virginia Square-GMU,,,OR,SV,---,---,---,38.88331,-77.104267,3600 Fairfax Drive,Arlington,VA,22201,Orange,6
+K02,Clarendon,,,OR,SV,---,---,---,38.886373,-77.096963,3100 Wilson Blvd,Arlington,VA,22201,Orange,7
+K01,Court House,,,OR,SV,---,---,---,38.891499,-77.08391,2100 Wilson Blvd,Arlington,VA,22201,Orange,8
+C05,Rosslyn,,,BL,OR,SV,---,---,38.896595,-77.07146,1850 N. Moore Street,Arlington,VA,22209,Orange,9
+C04,Foggy Bottom-GWU,,,BL,OR,SV,---,---,38.900599,-77.050273,2301 I St. NW,Washington,DC,20037,Orange,10
+C03,Farragut West,,,BL,OR,SV,---,---,38.901311,-77.03981,900 18th St. NW,Washington,DC,20006,Orange,11
+C02,McPherson Square,,,BL,OR,SV,---,---,38.901316,-77.033652,1400 I St. NW,Washington,DC,20005,Orange,12
+C01,Metro Center,A01,,OR,BL,RD,SV,---,38.898303,-77.028099,607 13th St. NW,Washington,DC,20005,Orange,13
+D01,Federal Triangle,,,BL,OR,SV,---,---,38.893757,-77.028218,302 12th St. NW,Washington,DC,20004,Orange,14
+D02,Smithsonian,,,BL,OR,SV,---,---,38.888022,-77.028232,1200 Independence Avenue SW,Washington,DC,20004,Orange,15
+D03,L'Enfant Plaza,F03,,OR,BL,GR,SV,YL,38.884775,-77.021964,600 Maryland Avenue SW,Washington,DC,20024,Orange,16
+D04,Federal Center SW,,,BL,OR,SV,---,---,38.884958,-77.01586,401 3rd Street SW,Washington,DC,20024,Orange,17
+D05,Capitol South,,,BL,OR,SV,---,---,38.884968,-77.005137,355 First Street SE,Washington,DC,20003,Orange,18
+D06,Eastern Market,,,BL,OR,SV,---,---,38.884124,-76.995334,701 Pennsylvania Avenue SE,Washington,DC,20003,Orange,19
+D07,Potomac Ave,,,BL,OR,SV,---,---,38.880841,-76.985721,700 14th Street SE,Washington,DC,20003,Orange,20
+D08,Stadium-Armory,,,BL,OR,SV,---,---,38.88594,-76.977485,192 19th St. SE,Washington,DC,20003,Orange,21
+D09,Minnesota Ave,,,OR,---,---,---,---,38.898284,-76.948042,4000 Minnesota Avenue NE,Washington,DC,20019,Orange,22
+D10,Deanwood,,,OR,---,---,---,---,38.907734,-76.936177,4720 Minnesota Avenue NE,Washington,DC,20019,Orange,23
+D11,Cheverly,,,OR,---,---,---,---,38.91652,-76.915427,5501 Columbia Park,Cheverly,MD,20785,Orange,24
+D12,Landover,,,OR,---,---,---,---,38.934411,-76.890988,3000 Pennsy Drive,Hyattsville,MD,20785,Orange,25
+D13,New Carrollton,,,OR,---,---,---,---,38.947674,-76.872144,4700 Garden City Drive,New Carrollton,MD,20784,Orange,26
+A15,Shady Grove,,,RD,---,---,---,---,39.119819,-77.164921,15903 Somerville Drive,Rockville,MD,20855,Red,1
+A14,Rockville,,,RD,---,---,---,---,39.084215,-77.146424,251 Hungerford Drive,Rockville,MD,20850,Red,2
+A13,Twinbrook,,,RD,---,---,---,---,39.062359,-77.121113,1600 Chapman Avenue,Rockville,MD,20852,Red,3
+A12,White Flint,,,RD,---,---,---,---,39.048043,-77.113131,5500 Marinelli Road,Rockville,MD,20852,Red,4
+A11,Grosvenor-Strathmore,,,RD,---,---,---,---,39.029158,-77.10415,10300 Rockville Pike,Bethesda,MD,20852,Red,5
+A10,Medical Center,,,RD,---,---,---,---,38.999947,-77.097253,8810 Rockville Pike,Bethesda,MD,20814,Red,6
+A09,Bethesda,,,RD,---,---,---,---,38.984282,-77.094431,7450 Wisconsin Avenue,Bethesda,MD,20814,Red,7
+A08,Friendship Heights,,,RD,---,---,---,---,38.960744,-77.085969,5337 Wisconsin Avenue NW,Washington,DC,20015,Red,8
+A07,Tenleytown-AU,,,RD,---,---,---,---,38.947808,-77.079615,4501 Wisconsin Avenue NW,Washington,DC,20016,Red,9
+A06,Van Ness-UDC,,,RD,---,---,---,---,38.94362,-77.063511,4200 Connecticut Avenue NW,Washington,DC,20008,Red,10
+A05,Cleveland Park,,,RD,---,---,---,---,38.934703,-77.058226,3599 Connecticut Avenue NW,Washington,DC,20008,Red,11
+A04,Woodley Park-Zoo/Adams Morgan,,,RD,---,---,---,---,38.924999,-77.052648,"2700 Connecticut Ave., NW",Washington,DC,20008,Red,12
+A03,Dupont Circle,,,RD,---,---,---,---,38.909499,-77.04362,1525 20th St. NW,Washington,DC,20036,Red,13
+A02,Farragut North,,,RD,---,---,---,---,38.903192,-77.039766,1001 Connecticut Avenue NW,Washington,DC,20036,Red,14
+A01,Metro Center,C01,,RD,BL,OR,SV,---,38.898303,-77.028099,607 13th St. NW,Washington,DC,20005,Red,15
+B01,Gallery Pl-Chinatown,F01,,RD,GR,YL,---,---,38.89834,-77.021851,630 H St. NW,Washington,DC,20001,Red,16
+B02,Judiciary Square,,,RD,---,---,---,---,38.896084,-77.016643,450 F Street NW,Washington,DC,20001,Red,17
+B03,Union Station,,,RD,---,---,---,---,38.897723,-77.006745,701 First St. NE,Washington,DC,20002,Red,18
+B35,NoMa-Gallaudet U,,,RD,---,---,---,---,38.907407,-77.002961,200 Florida Ave N.E.,Washington,DC,20002,Red,19
+B04,Rhode Island Ave-Brentwood,,,RD,---,---,---,---,38.920741,-76.995984,919 Rhode Island Avenue NE,Washington,DC,20018,Red,20
+B05,Brookland-CUA,,,RD,---,---,---,---,38.933234,-76.994544,801 Michigan Avenue NE,Washington,DC,20017,Red,21
+B06,Fort Totten,E06,,RD,GR,YL,---,---,38.951777,-77.002174,550 Galloway Street NE,Washington,DC,20011,Red,22
+B07,Takoma,,,RD,---,---,---,---,38.975532,-77.017834,327 Cedar Street NW,Washington,DC,20012,Red,23
+B08,Silver Spring,,,RD,---,---,---,---,38.993841,-77.031321,8400 Colesville Road,Silver Spring,MD,20910,Red,24
+B09,Forest Glen,,,RD,---,---,---,---,39.015413,-77.042953,9730 Georgia Avenue,Forest Glen,MD,20910,Red,25
+B10,Wheaton,,,RD,---,---,---,---,39.038558,-77.051098,11171 Georgia Avenue,Silver Spring,MD,20902,Red,26
+B11,Glenmont,,,RD,---,---,---,---,39.061713,-77.05341,12501 Georgia Avenue,Silver Spring,MD,20906,Red,27
+N06,Wiehle-Reston East,,,SV,---,---,---,---,38.947753,-77.340179,1862 Wiehle Avenue,Reston,VA,20190,Silver,1
+N04,Spring Hill,,,SV,---,---,---,---,38.929273,-77.241988,1576 Spring Hill Road,Vienna,VA,22182,Silver,2
+N03,Greensboro,,,SV,---,---,---,---,38.919749,-77.235192,8305 Leesburg Pike,Vienna,VA,22182,Silver,3
+N02,Tysons Corner,,,SV,---,---,---,---,38.920056,-77.223314,1943 Chain Bridge Road,McLean,VA,22102,Silver,4
+N01,McLean,,,SV,---,---,---,---,38.924478,-77.210167,1824 Dolley Madison Boulevard,McLean,VA,22102,Silver,5
+K05,East Falls Church,,,OR,SV,---,---,---,38.885841,-77.157177,2001 N. Sycamore St.,Arlington,VA,22205,Silver,6
+K04,Ballston-MU,,,OR,SV,---,---,---,38.882071,-77.111845,4230 Fairfax Drive,Arlington,VA,22201,Silver,7
+K03,Virginia Square-GMU,,,OR,SV,---,---,---,38.88331,-77.104267,3600 Fairfax Drive,Arlington,VA,22201,Silver,8
+K02,Clarendon,,,OR,SV,---,---,---,38.886373,-77.096963,3100 Wilson Blvd,Arlington,VA,22201,Silver,9
+K01,Court House,,,OR,SV,---,---,---,38.891499,-77.08391,2100 Wilson Blvd,Arlington,VA,22201,Silver,10
+C05,Rosslyn,,,BL,OR,SV,---,---,38.896595,-77.07146,1850 N. Moore Street,Arlington,VA,22209,Silver,11
+C04,Foggy Bottom-GWU,,,BL,OR,SV,---,---,38.900599,-77.050273,2301 I St. NW,Washington,DC,20037,Silver,12
+C03,Farragut West,,,BL,OR,SV,---,---,38.901311,-77.03981,900 18th St. NW,Washington,DC,20006,Silver,13
+C02,McPherson Square,,,BL,OR,SV,---,---,38.901316,-77.033652,1400 I St. NW,Washington,DC,20005,Silver,14
+C01,Metro Center,A01,,SV,BL,OR,RD,---,38.898303,-77.028099,607 13th St. NW,Washington,DC,20005,Silver,15
+D01,Federal Triangle,,,BL,OR,SV,---,---,38.893757,-77.028218,302 12th St. NW,Washington,DC,20004,Silver,16
+D02,Smithsonian,,,BL,OR,SV,---,---,38.888022,-77.028232,1200 Independence Avenue SW,Washington,DC,20004,Silver,17
+D03,L'Enfant Plaza,F03,,SV,BL,GR,OR,YL,38.884775,-77.021964,600 Maryland Avenue SW,Washington,DC,20024,Silver,18
+D04,Federal Center SW,,,BL,OR,SV,---,---,38.884958,-77.01586,401 3rd Street SW,Washington,DC,20024,Silver,19
+D05,Capitol South,,,BL,OR,SV,---,---,38.884968,-77.005137,355 First Street SE,Washington,DC,20003,Silver,20
+D06,Eastern Market,,,BL,OR,SV,---,---,38.884124,-76.995334,701 Pennsylvania Avenue SE,Washington,DC,20003,Silver,21
+D07,Potomac Ave,,,BL,OR,SV,---,---,38.880841,-76.985721,700 14th Street SE,Washington,DC,20003,Silver,22
+D08,Stadium-Armory,,,BL,OR,SV,---,---,38.88594,-76.977485,192 19th St. SE,Washington,DC,20003,Silver,23
+G01,Benning Road,,,BL,SV,---,---,---,38.890488,-76.938291,4500 Benning Road,Washington,DC,20019,Silver,24
+G02,Capitol Heights,,,BL,SV,---,---,---,38.889757,-76.913382,133 Central Avenue,Capitol Heights,MD,20743,Silver,25
+G03,Addison Road-Seat Pleasant,,,BL,SV,---,---,---,38.886713,-76.893592,100 Addison Road S.,Capitol Heights,MD,20743,Silver,26
+G04,Morgan Boulevard,,,BL,SV,---,---,---,38.8913,-76.8682,300 Garrett Morgan Blvd.,Landover,MD,20785,Silver,27
+G05,Largo Town Center,,,BL,SV,---,---,---,38.9008,-76.8449,Largo Town Center 9000 Lottsford Road,Largo,MD,20774,Silver,28
+E10,Greenbelt,,,GR,YL,---,---,---,39.011036,-76.911362,5717 Greenbelt Metro Drive,Greenbelt,MD,20740,Yellow,1
+E09,College Park-U of Md,,,GR,YL,---,---,---,38.978523,-76.928432,4931 Calvert Road,College Park,MD,20740,Yellow,2
+E08,Prince George's Plaza,,,GR,YL,---,---,---,38.965276,-76.956182,3575 East West Highway,Hyattsville,MD,20782,Yellow,3
+E07,West Hyattsville,,,GR,YL,---,---,---,38.954931,-76.969881,2700 Hamilton St.,Hyattsville,MD,20782,Yellow,4
+E06,Fort Totten,B06,,YL,GR,RD,---,---,38.951777,-77.002174,550 Galloway Street NE,Washington,DC,20011,Yellow,5
+E05,Georgia Ave-Petworth,,,GR,YL,---,---,---,38.936077,-77.024728,3700 Georgia Avenue NW,Washington,DC,20010,Yellow,6
+E04,Columbia Heights,,,GR,YL,---,---,---,38.928672,-77.032775,3030 14th St. NW,Washington,DC,20009,Yellow,7
+E03,U Street/African-Amer Civil War Memorial/Cardozo,,,GR,YL,---,---,---,38.916489,-77.028938,1240 U Street NW,Washington,DC,20009,Yellow,8
+E02,Shaw-Howard U,,,GR,YL,---,---,---,38.912919,-77.022194,1701 8th St. NW,Washington,DC,20001,Yellow,9
+E01,Mt Vernon Sq 7th St-Convention Center,,,GR,YL,---,---,---,38.905604,-77.022256,700 M St. NW,Washington,DC,20001,Yellow,10
+F01,Gallery Pl-Chinatown,B01,,YL,GR,RD,---,---,38.89834,-77.021851,630 H St. NW,Washington,DC,20001,Yellow,11
+F02,Archives-Navy Memorial-Penn Quarter,,,GR,YL,---,---,---,38.893893,-77.021902,701 Pennsylvania Avenue NW,Washington,DC,20004,Yellow,12
+F03,L'Enfant Plaza,D03,,YL,BL,GR,OR,SV,38.884775,-77.021964,600 Maryland Avenue SW,Washington,DC,20024,Yellow,13
+C07,Pentagon,,,BL,YL,---,---,---,38.869349,-77.054013,2 South Rotary Road,Arlington,VA,22202,Yellow,14
+C08,Pentagon City,,,BL,YL,---,---,---,38.863045,-77.059507,1250 South Hayes St.,Arlington,VA,22202,Yellow,15
+C09,Crystal City,,,BL,YL,---,---,---,38.85779,-77.050589,1750 South Clark St.,Arlington,VA,22202,Yellow,16
+C10,Ronald Reagan Washington National Airport,,,BL,YL,---,---,---,38.852985,-77.043805,2400 S. Smith Blvd.,Arlington,VA,22202,Yellow,17
+C12,Braddock Road,,,BL,YL,---,---,---,38.814009,-77.053763,700 N. West St.,Alexandria,VA,22301,Yellow,18
+C13,King St-Old Town,,,BL,YL,---,---,---,38.806474,-77.061115,1900 King Street,Alexandria,VA,22301,Yellow,19
+C14,Eisenhower Avenue,,,YL,---,---,---,---,38.800313,-77.071173,2400 Eisenhower Avenue,Alexandria,VA,22314,Yellow,20
+C15,Huntington,,,YL,---,---,---,---,38.793841,-77.075301,2501 Huntington Ave,Huntington,VA,22303,Yellow,21
